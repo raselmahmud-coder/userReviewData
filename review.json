@@ -1,0 +1,72 @@
+[
+  {
+    "index": 0,
+    "comment": "",
+    "userName": "Mcdowell",
+    "picture": "http://placehold.it/32x32",
+    "rating": 4
+  },
+  {
+    "index": 1,
+    "comment": "",
+    "userName": "Johnston",
+    "picture": "http://placehold.it/32x32",
+    "rating": 4
+  },
+  {
+    "index": 2,
+    "comment": "",
+    "userName": "Sampson",
+    "picture": "http://placehold.it/32x32",
+    "rating": 5
+  },
+  {
+    "index": 3,
+    "comment": "",
+    "userName": "Carter",
+    "picture": "http://placehold.it/32x32",
+    "rating": 5
+  },
+  {
+    "index": 4,
+    "comment": "",
+    "userName": "Cameron",
+    "picture": "http://placehold.it/32x32",
+    "rating": 5
+  },
+  {
+    "index": 5,
+    "comment": "",
+    "userName": "Lott",
+    "picture": "http://placehold.it/32x32",
+    "rating": 2
+  },
+  {
+    "index": 6,
+    "comment": "",
+    "userName": "Merritt",
+    "picture": "http://placehold.it/32x32",
+    "rating": 5
+  },
+  {
+    "index": 7,
+    "comment": "",
+    "userName": "Goodwin",
+    "picture": "http://placehold.it/32x32",
+    "rating": 2
+  },
+  {
+    "index": 8,
+    "comment": "",
+    "userName": "Faulkner",
+    "picture": "http://placehold.it/32x32",
+    "rating": 4
+  },
+  {
+    "index": 9,
+    "comment": "",
+    "userName": "Pacheco",
+    "picture": "http://placehold.it/32x32",
+    "rating": 2
+  }
+]
